@@ -6,6 +6,22 @@ Download the installer `motivewave_setup7.0.23.exe` file from the release page. 
 
 In order to have the "free" license you can either download the already patched files from the release page or you can use the python script to do it yourself. The files needed are in `C:\Program Files (x86)\MotiveWave` and `C:\Program Files (x86)\MotiveWave\bin` or wherever you installed motivewave.
 
+Simply navigate your  `C:\Program Files (x86)\MotiveWave` folder and click the "unins000" file to uninstall motivewave, then after that use the motivewave setup file and go throught the installation proccess.
+
+After that install the provided "MotiveWave.exe" and MotiveWave.Jar" files to your downloads
+
+in the `C:\Program Files (x86)\MotiveWave` folder, replace the existing "MotiveWave.exe", with the new one you just installed, and replace it. 
+
+Lastly, in the  `C:\Program Files (x86)\MotiveWave` folder, there should be a folder named "lib" , in there replace the existing "MotiveWave.Jar" folder with the new one provided, and replace it.
+
+You can finally launch motivewave now and as you are in the launcher where it asks you to select a workspace, click on the options and click "License"
+
+For the License you can input something like XXXX-XXXX-XXXX-XXXX-XXX-XXXX or another combination of 24 letters, and click update.
+
+You should now have it
+
+
+
 ## Other Notes
 
 I don't know if this patch can work on future versions, the current version it works is v7.0.23, if motivewave updates and the patch doesn't work just create an issue and I'll see what I can do, or if you fix it, open a pull request.
