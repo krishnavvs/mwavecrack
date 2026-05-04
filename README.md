@@ -16,7 +16,7 @@ Lastly, in the  `C:\Program Files (x86)\MotiveWave` folder, there should be a fo
 
 You can finally launch motivewave now and as you are in the launcher where it asks you to select a workspace, click on the options and click "License"
 
-For the License you can input something like XXXX-XXXX-XXXX-XXXX-XXX-XXXX or another combination of 24 letters, and click update.
+For the License you can input something like XXXX-XXXX-XXXX-XXXX-XXX-XXXX or AAAA-AAAA-AAAA-AAAA-AAAA , any combination of 24 letters will work, and click update.
 
 You should now have it
 
