@@ -1,7 +1,8 @@
 # Start
 
-(only works for windows as of now) 
-Download the installer `motivewave_setup7.0.23.exe` file from the release page. It's the original file, I just upload it so you can have the version of motivewave that this patch was made to work with.
+**(only works for windows as of now)**
+
+Download the installer `motivewave_setup7.0.23.exe` file from the release page, or use the link and get it from the actual motivewave website. It's the original file, I just uploaded it so you can have the version of motivewave that this patch was made to work with.
 
 # How to use
 
